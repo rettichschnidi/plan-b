@@ -3,6 +3,7 @@ WLAN ist cool. Überwachung und WLAN suchen ist nicht cool. Sharing is caring. D
 
 # Ziele
 * Fördert offenes WLAN
+* Schützt den Betreiber vor rechtlichen Konsequenzen
 * Hilft gegen [Überwachung](https://www.digitale-gesellschaft.ch/category/uberwachung/) durch bspw. [Bundesgesetz betreffend der Überwachung des Post und Fernmeldeverkehrs (BÜPF)](https://www.digitale-gesellschaft.ch/tag/bupf/) und [Nachrichtendienstgesetz (NDG) ](https://www.digitale-gesellschaft.ch/?s=nachrichtendienstgesetz)
 * Hilft gegen [Zensur](https://www.digitale-gesellschaft.ch/category/zensur/)
 * Null Konfigurationsaufwand
