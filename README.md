@@ -2,6 +2,9 @@
 WLAN ist cool. Überwachung und WLAN suchen ist nicht cool. Sharing is caring. Darum eigenenes WLAN teilen - aber sicher.
 
 # Ziele
+* Fördert offenes WLAN
+* Hilft gegen [Überwachung](https://www.digitale-gesellschaft.ch/category/uberwachung/)
+* Hilft gegen [Zensur](https://www.digitale-gesellschaft.ch/category/zensur/)
 * Null Konfigurationsaufwand
 * Preislich attraktiv
 
