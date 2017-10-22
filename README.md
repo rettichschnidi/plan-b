@@ -4,8 +4,11 @@ WLAN ist cool. Überwachung und WLAN suchen ist nicht cool. Sharing is caring. D
 # Ziele
 * Fördert offenes WLAN mit [#CHFreeWiFi](http://umap.osm.ch/en/map/chfreewifi_588)
 * Schützt den Betreiber vor rechtlichen Konsequenzen
-* Hilft gegen [Überwachung](https://www.digitale-gesellschaft.ch/category/uberwachung/) durch bspw. [Bundesgesetz betreffend der Überwachung des Post und Fernmeldeverkehrs (BÜPF)](https://www.digitale-gesellschaft.ch/tag/bupf/) und [Nachrichtendienstgesetz (NDG) ](https://www.digitale-gesellschaft.ch/?s=nachrichtendienstgesetz)
-* Hilft gegen [Zensur](https://www.digitale-gesellschaft.ch/category/zensur/)
+* Hilft gegen [Überwachung](https://www.digitale-gesellschaft.ch/category/uberwachung/):
+  * [Bundesgesetz betreffend der Überwachung des Post und Fernmeldeverkehrs (BÜPF)](https://www.digitale-gesellschaft.ch/tag/bupf/)
+  * [Nachrichtendienstgesetz (NDG) ](https://www.digitale-gesellschaft.ch/tag/nachrichtendienstgesetz/)
+* Hilft gegen [Zensur](https://www.digitale-gesellschaft.ch/category/zensur/):
+  * [Geldspielgesetz](https://www.digitale-gesellschaft.ch/tag/geldspielgesetz/)
 * Null Konfigurationsaufwand
 * Preislich attraktiv
 
