@@ -45,3 +45,5 @@ Folgende Harware ist nötig, um das bereitgestellte Image zu verwenden:
 
 # Ähnliche Projekte
  * [Upribox](https://upribox.org/)
+ * [Anonabox](https://www.anonabox.com/)
+ * [Freifunk](https://freifunk.net/)
