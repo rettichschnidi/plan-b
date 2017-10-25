@@ -1,7 +1,4 @@
 # Motivation
-WLAN ist cool. Zensur, Überwachung und WLAN suchen nicht. Sharing is caring. Darum eigenenes WLAN teilen - aber sicher.
-
-Wir wollen:
 * Offenes WLAN mit [#CHFreeWiFi](http://umap.osm.ch/en/map/chfreewifi_588) fördern
 * [Massenüberwachung](https://www.digitale-gesellschaft.ch/category/uberwachung/) verhindern:
   * [Bundesgesetz betreffend der Überwachung des Post und Fernmeldeverkehrs (BÜPF)](https://www.digitale-gesellschaft.ch/tag/bupf/)
@@ -10,7 +7,7 @@ Wir wollen:
   * [Geldspielgesetz](https://www.digitale-gesellschaft.ch/tag/geldspielgesetz/)
 
 # Wir wir dies erreichen
-Wir entwickeln ein Gerät, welche es jedermann erlaubt, zu den obigen Zielen beizutragen. Diese Gerät muss dann ihn möglichst hoher Stückzahl vertrieben werden. Damit dies gelingt sind folgende Punkte zu erfüllen:
+Wir entwickeln ein massentaugliches Gerät, welche es jedermann mit Internetanschluss erlaubt, zu den obigen Zielen beizutragen. Damit dies gelingt sind folgende Punkte zu erfüllen:
 
 * Betreiber von offenem WLAN vor rechtlichen Konsequenzen geschützt
 * Null Konfigurationsaufwand
@@ -18,12 +15,16 @@ Wir entwickeln ein Gerät, welche es jedermann erlaubt, zu den obigen Zielen bei
 
 # Meilensteine
 ## Version 0.1
+### Ziel
 * Webseite mit Motiviation und Ziel
 * Einkaufsliste für Hardware
 * Image zum Download
 
-### Installation
+### Fortschritt
 #### Software
+Das [Raspian Build Tool](https://github.com/RPi-Distro/pi-gen) wurde um eine Accesspoint- und Torkonfiguration erweitert. Das resultierend Image kann aufgespielt und mit entsprechender Hardware (siehe unten) sofort verwendet werden.
+* Repository: https://github.com/DigitaleGesellschaft/pi-gen
+* Image: TBD
 
 #### Hardware
 Folgende Harware ist nötig, um das bereitgestellte Image zu verwenden:
@@ -38,14 +39,17 @@ Folgende Harware ist nötig, um das bereitgestellte Image zu verwenden:
 | microSDHC Kartenleser | Nur zur Installation nötig | [Toppreise](http://www.toppreise.ch/index.php?search=microsd+card+reader) |
 | Optional: Gehäuse | | [Toppreise: Offizielles Pi 2 / 3 Gehäuse](http://www.toppreise.ch/prod_491022.html) |
 
-
 ## Version 0.5
+### Ziel
 * Preislich attraktive Hardware
 
-## Version 1.0
-* Website mit Bestellmöglichkeit
+### Fortschritt
+Derzeit werden auf [http://www.gl-inet.com/ar150/](AR150) sowie [Orange Pi Zero](http://www.orangepi.org/orangepizero/) basierende Lösungen evaluiert.
 
-# Projektfortschritt
+## Version 1.0
+### Ziel
+* Fertiges Produkt
+* Website mit Bestellmöglichkeit
 
 # Mitmachen
 * Code forken
