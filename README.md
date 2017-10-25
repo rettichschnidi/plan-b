@@ -44,7 +44,7 @@ Folgende Harware ist nötig, um das bereitgestellte Image zu verwenden:
 * Preislich attraktive Hardware
 
 ### Fortschritt
-Derzeit werden auf [http://www.gl-inet.com/ar150/](AR150) sowie [Orange Pi Zero](http://www.orangepi.org/orangepizero/) basierende Lösungen evaluiert.
+Derzeit werden auf [AR150](http://www.gl-inet.com/ar150/) sowie [Orange Pi Zero](http://www.orangepi.org/orangepizero/) basierende Lösungen evaluiert.
 
 ## Version 1.0
 ### Ziel
