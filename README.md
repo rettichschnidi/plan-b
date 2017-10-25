@@ -16,10 +16,16 @@ Wir entwickeln ein Gerät, welche es jedermann erlaubt, zu den obigen Zielen bei
 * Null Konfigurationsaufwand
 * Preislich attraktiv
 
-# Installation
-## Software
+# Meilensteine
+## Version 0.1
+* Webseite mit Motiviation und Ziel
+* Einkaufsliste für Hardware
+* Image zum Download
 
-## Hardware
+### Installation
+#### Software
+
+#### Hardware
 Folgende Harware ist nötig, um das bereitgestellte Image zu verwenden:
 
 | Bezeichnung  | Bemerkung | Bezugsmöglichkeiten |
@@ -32,11 +38,6 @@ Folgende Harware ist nötig, um das bereitgestellte Image zu verwenden:
 | microSDHC Kartenleser | Nur zur Installation nötig | [Toppreise](http://www.toppreise.ch/index.php?search=microsd+card+reader) |
 | Optional: Gehäuse | | [Toppreise: Offizielles Pi 2 / 3 Gehäuse](http://www.toppreise.ch/prod_491022.html) |
 
-# Meilensteine
-## Version 0.1
-* Webseite mit Motiviation und Ziel
-* Einkaufsliste für Hardware
-* Image zum Download
 
 ## Version 0.5
 * Preislich attraktive Hardware
