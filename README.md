@@ -1,14 +1,16 @@
 # Motivation
-WLAN ist cool. Überwachung und WLAN suchen ist nicht cool. Sharing is caring. Darum eigenenes WLAN teilen - aber sicher.
+WLAN ist cool. Zensur, Überwachung und WLAN suchen nicht. Sharing is caring. Darum eigenenes WLAN teilen - aber sicher.
+
+Wir wollen:
+* Offenes WLAN mit [#CHFreeWiFi](http://umap.osm.ch/en/map/chfreewifi_588) fördern
+* [Massenüberwachung](https://www.digitale-gesellschaft.ch/category/uberwachung/) verhindern:
+  * [Bundesgesetz betreffend der Überwachung des Post und Fernmeldeverkehrs (BÜPF)](https://www.digitale-gesellschaft.ch/tag/bupf/)
+  * [Nachrichtendienstgesetz (NDG)](https://www.digitale-gesellschaft.ch/tag/nachrichtendienstgesetz/)
+* [Zensur](https://www.digitale-gesellschaft.ch/category/zensur/) verhindern:
+  * [Geldspielgesetz](https://www.digitale-gesellschaft.ch/tag/geldspielgesetz/)
 
 # Ziele
-* Fördert offenes WLAN mit [#CHFreeWiFi](http://umap.osm.ch/en/map/chfreewifi_588)
-* Schützt den Betreiber vor rechtlichen Konsequenzen
-* Hilft gegen [Überwachung](https://www.digitale-gesellschaft.ch/category/uberwachung/):
-  * [Bundesgesetz betreffend der Überwachung des Post und Fernmeldeverkehrs (BÜPF)](https://www.digitale-gesellschaft.ch/tag/bupf/)
-  * [Nachrichtendienstgesetz (NDG) ](https://www.digitale-gesellschaft.ch/tag/nachrichtendienstgesetz/)
-* Hilft gegen [Zensur](https://www.digitale-gesellschaft.ch/category/zensur/):
-  * [Geldspielgesetz](https://www.digitale-gesellschaft.ch/tag/geldspielgesetz/)
+* Schützt den Betreiber von #CHFreeWiFi vor rechtlichen Konsequenzen
 * Null Konfigurationsaufwand
 * Preislich attraktiv
 
