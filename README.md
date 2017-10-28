@@ -1,9 +1,9 @@
 # Motivation
 * Offenes WLAN mit [#CHFreeWiFi](http://umap.osm.ch/en/map/chfreewifi_588) fördern
-* [Massenüberwachung](https://www.digitale-gesellschaft.ch/category/uberwachung/) verhindern:
+* [Massenüberwachung](https://www.digitale-gesellschaft.ch/category/uberwachung/) erschweren:
   * [Bundesgesetz betreffend der Überwachung des Post und Fernmeldeverkehrs (BÜPF)](https://www.digitale-gesellschaft.ch/tag/bupf/)
   * [Nachrichtendienstgesetz (NDG)](https://www.digitale-gesellschaft.ch/tag/nachrichtendienstgesetz/)
-* [Zensur](https://www.digitale-gesellschaft.ch/category/zensur/) verhindern:
+* [Zensur](https://www.digitale-gesellschaft.ch/category/zensur/) erschweren:
   * [Geldspielgesetz](https://www.digitale-gesellschaft.ch/tag/geldspielgesetz/)
 
 # Wir wir dies erreichen
