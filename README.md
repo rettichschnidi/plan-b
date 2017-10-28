@@ -24,7 +24,7 @@ Wir entwickeln ein massentaugliches Gerät, welche es jedermann mit Internetansc
 #### Software
 Das [Raspian Build Tool](https://github.com/RPi-Distro/pi-gen) wurde um eine Accesspoint- und Torkonfiguration erweitert. Das resultierend Image kann aufgespielt und mit entsprechender Hardware (siehe unten) sofort verwendet werden.
 * Repository: https://github.com/DigitaleGesellschaft/pi-gen
-* Image: TBD
+* Image: auf Anfrage
 
 #### Hardware
 Folgende Harware ist nötig, um das bereitgestellte Image zu verwenden:
